@@ -1,0 +1,21 @@
+_aqui esta o conteudo do brench_
+
+Comando que cria uma branch local
+	-git checkout -b tarefa-1
+
+Enviar branch para o servidor
+	-git push --set-upstream tarefa-1
+
+Listar o conteudo criado, modificado ou deletado
+	-git status
+
+Adiciona o arquivo na staged area
+	-git add ( "." adiciona todos os arquivos)
+
+Commit de alteracao
+	-git commit -m '' (entre '' adiciona-se a descricao)
+
+Envia ao server
+	-git push origin-upstream tarefa
+
+Fechamento da versão
